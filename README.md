@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Fatu! 👋</h1>
+<h1 align="center">Hi there, I'm FATEHA! 👋</h1>
 
 <p align="center">
 💻 Aspiring Web Developer | Passionate about Frontend & Backend  
@@ -7,10 +7,10 @@
 ---
 
 ## 🚀 About Me  
-- 🔭 Currently working on **exciting web projects**  
-- 🌱 Learning **MERN Stack (MongoDB, Express.js, React.js, Node.js)**  
-- 💬 Ask me about **Web Development, GitHub, and JavaScript**  
-- 📫 Reach me at: **[your-email@example.com](mailto:your-email@example.com)**  
+- 🔭 Currently working on **HARPOWER PROJECT**  
+- 🌱 Learning **HTML/CSS/JAVASCRIPT 
+- 💬 Ask me about **HTML,CSS,JS BOOTSTARP,TAILWIND**  
+- 📫 Reach me at: **fatehaa@gamil.com**  
 - ⚡ Fun fact: **I love traveling & exploring tech trends!**  
 
 ---
