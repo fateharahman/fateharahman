@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Fateha Begum</h1>
-<h3 align="center">A passionate Web Devoloper</h3>
+### Hi there 👋, Hey I'm Fateha
+#### A passionate Web Devoloper
+![A passionate Web Devoloper](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fateharahman&label=Profile%20views&color=0e75b6&style=flat" alt="fateharahman" /> </p>
+Aspiring Web Developer| BSc 1st Year Student  | Learning Web Development @ Harpower Project | Skilled in HTML, CSS, JavaScript, React, Node.js, and Express | Passionate about reading books, gardening, and exploring new places | 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+Skills:  HTML / CSS/ JS
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+- 🔭 I’m currently working on this page. 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fateharahman&show_icons=true&locale=en&layout=compact" alt="fateharahman" /></p>
+
+
+
