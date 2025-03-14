@@ -1,12 +1,16 @@
-### Hi there 👋, Hey I'm Fateha
-#### A passionate Web Devoloper
+<h1 align="center">Hi there, I'm Fatu! 👋</h1>
 
+<p align="center">
+💻 Aspiring Web Developer | Passionate about Frontend & Backend  
+</p>
 
-Aspiring Web Developer| BSc 1st Year Student  | Learning Web Development @ Harpower Project | Skilled in HTML, CSS, JavaScript | Passionate about reading books, gardening, and exploring new places | 
+---
 
-Skills:  HTML / CSS/ JS
- 
+## 🚀 About Me  
+- 🔭 Currently working on **exciting web projects**  
+- 🌱 Learning **MERN Stack (MongoDB, Express.js, React.js, Node.js)**  
+- 💬 Ask me about **Web Development, GitHub, and JavaScript**  
+- 📫 Reach me at: **[your-email@example.com](mailto:your-email@example.com)**  
+- ⚡ Fun fact: **I love traveling & exploring tech trends!**  
 
-
-
-
+---
